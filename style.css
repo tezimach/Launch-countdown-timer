@@ -1,0 +1,33 @@
+body {
+    background-color:  hsla(234, 15%, 14%, 1);
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("./images/pattern-hills.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position: bottom right;
+}
+
+h1 {
+    font-family: 'Red Hat Text', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 6.13636px;
+    text-transform: uppercase;
+    width: 87.2%;
+    margin: 142px 0 54px 0;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+p {
+    margin-bottom: 335px;
+}
+
+.pinterest-logo {
+    margin: 0 32px;
+}
